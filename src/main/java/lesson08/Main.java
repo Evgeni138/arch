@@ -19,7 +19,7 @@ public class Main {
 
         view.reservationTable(new Date(), 2, "Евгений");
         view.reservationTable(new Date(), 3, "Юля");
-        view.reservationTable(new Date(), 4, "Вика");
+        view.reservationTable(new Date(), 40, "Вика");
 
         System.out.println();
 
